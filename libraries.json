@@ -1,1 +1,10 @@
-[]
+[
+ {
+  "name": "Test Library",
+  "host": "example.com",
+  "href": "https://example.com/",
+  "stack": "React",
+  "email": "",
+  "added": "2026-11-15"
+ }
+]
